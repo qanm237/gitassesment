@@ -1,2 +1,6 @@
 This is a sample text 1 file
+<<<<<<< HEAD
 Change1 made
+=======
+env2 has made change
+>>>>>>> commit9changeby env2
